@@ -1,0 +1,14 @@
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\bin\Debug\CardGameRuleGenerator.exe.config
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\bin\Debug\CardGameRuleGenerator.exe
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\bin\Debug\CardGameRuleGenerator.pdb
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\obj\Debug\CardGameRuleGenerator.csprojAssemblyReference.cache
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\obj\Debug\MainWindow.g.cs
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\obj\Debug\App.g.cs
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\obj\Debug\CardGameRuleGenerator_MarkupCompile.cache
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\obj\Debug\CardGameRuleGenerator_MarkupCompile.lref
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\obj\Debug\MainWindow.baml
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\obj\Debug\CardGameRuleGenerator.g.resources
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\obj\Debug\CardGameRuleGenerator.Properties.Resources.resources
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\obj\Debug\CardGameRuleGenerator.csproj.GenerateResource.cache
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\obj\Debug\CardGameRuleGenerator.exe
+M:\Learning\MyPractice\xaml\CardGameRuleGenerator\CardGameRuleGenerator\obj\Debug\CardGameRuleGenerator.pdb

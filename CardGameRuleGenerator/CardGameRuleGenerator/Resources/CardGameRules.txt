@@ -1,0 +1,8 @@
+--
+Only prime number cards are allowed
+--
+1. Whatever the third person put is allowed, card from others are not allowed
+2. Exception happen when third person put card of type heart, when that happens, everybody's card is allowed.
+--
+- Allow even number on red color cards 
+- Allow odd number on black color cards
