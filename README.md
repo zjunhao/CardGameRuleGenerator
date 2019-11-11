@@ -11,6 +11,7 @@ Some notes about formating in CardGameRules.txt:
 2. DO NOT CONTAIN -- INSIDE YOUR RULES
 
 Here is a sample for CardGameRules.txt:
+
        --
        Only prime number cards are allowed
        --
