@@ -1,18 +1,16 @@
 # CardGameRuleGenerator
-- A random rule generator for card games
 
-Thanks for using CardGameRuleGenerator!
+Thanks for using CardGameRuleGenerator -a random rule generator for card games!
 
 Ussage:
 1. Just save your rules under file CardGameRuleGenerator\CardGameRuleGenerator\Resources\CardGameRules.txt
 2. And open the app lies in "CardGameRuleGenerator\CardGameRuleGenerator\bin\Debug\CardGameRuleGenerator.exe" you'll get a random rule generated just by a button click!
 
 Some notes about formating in CardGameRules.txt:
+1. Seperate rules using double dash symbol --
+2. DO NOT CONTAIN -- INSIDE YOUR RULES
 
-    1. Seperate rules using double dash symbol --
-    2. DO NOT CONTAIN -- INSIDE YOUR RULES
-
-       Here is one example:
+Here is a sample for CardGameRules.txt:
        --
        Only prime number cards are allowed
        --
